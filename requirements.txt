@@ -1,0 +1,24 @@
+# Core Python
+numpy
+pandas
+
+# Visualization & EDA
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Explainability
+shap
+
+# API & Serving
+fastapi
+uvicorn
+
+# Model persistence
+joblib
+
+# Utilities
+pydantic
