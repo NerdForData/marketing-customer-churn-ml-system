@@ -274,8 +274,8 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 ## 👤 Author
 
 **Aishwarya**
-M.Sc. Software Engineering & Management
-Focus: Data Science, ML Engineering, Analytics Engineering
+* M.Sc. Software Engineering & Management
+* Focus: Data Science, ML Engineering, Analytics Engineering
 
 
 
